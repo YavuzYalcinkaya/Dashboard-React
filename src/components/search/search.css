@@ -1,0 +1,119 @@
+.searchItem {
+    display: flex;
+    justify-content: space-between;
+}
+.searchLeft {
+    display: flex;
+    font-display: row;
+    margin-top: 15px;
+    
+}
+
+.searchInput {
+    width: 300px;
+    height: 30px;
+    
+    margin-left: 10px;
+    
+}
+
+.searching {
+    color: #969e9e;
+    margin-left: 283px;
+    margin-top: -28px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.approval {
+    margin-top: 15px;
+    padding: 5px 20px;
+    margin-right: 15px;
+    cursor: pointer;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.approval:hover {
+    border-color: yellow;
+}
+
+.plan {
+    padding: 5px;
+    background-color: #fff;
+    margin-top: 15px;  
+    margin-right: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.threeButton {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.unit {
+    margin-top: 15px;
+    background-color: #1b79d6;
+    color: #fff;
+    font-size: small;
+    cursor: pointer; 
+    border-radius: 5px;  
+}
+
+.launch {
+    margin-top: 15px;
+    background-color: #fff;
+    color: black;
+    font-size: small;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.feed {
+    margin-top: 15px;
+    background-color: #fff;
+    color: black;
+    font-size: small;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.filtreButton {
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-left: 10px;
+    background-color: rgb(95, 95, 95);
+    color: white;
+    font-size: small;
+    cursor: pointer;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1px 5px;
+   
+}
+
+
+.filtreButton:hover {
+    background-color: gray;
+}
+
+.down {
+    margin-top: 15px;
+}
+
+.up {
+    margin-right: -24px;
+}
+
+
+
+
