@@ -12,7 +12,7 @@
 .searchInput {
     width: 300px;
     height: 30px;
-    
+    border: 2px solid rgb(133, 133, 133);
     margin-left: 10px;
     
 }
@@ -37,11 +37,9 @@
     cursor: pointer;
     background-color: #fff;
     border-radius: 5px;
+    border-color: orangered;
 }
 
-.approval:hover {
-    border-color: yellow;
-}
 
 .plan {
     padding: 5px;
@@ -50,6 +48,7 @@
     margin-right: 15px;
     cursor: pointer;
     border-radius: 5px;
+    border: 2px solid rgb(133, 133, 133);
 }
 
 .threeButton {
@@ -60,11 +59,12 @@
 
 .unit {
     margin-top: 15px;
-    background-color: #1b79d6;
+    background-color: #1c7bda;
     color: #fff;
     font-size: small;
     cursor: pointer; 
     border-radius: 5px;  
+    border: 1px solid rgb(133, 133, 133);
 }
 
 .launch {
@@ -74,6 +74,7 @@
     font-size: small;
     cursor: pointer;
     border-radius: 5px;
+    border: 1px solid rgb(133, 133, 133);
 }
 
 .feed {
@@ -83,6 +84,7 @@
     font-size: small;
     cursor: pointer;
     border-radius: 5px;
+    border: 1px solid rgb(133, 133, 133);
 }
 
 .filtreButton {
@@ -107,7 +109,7 @@
 }
 
 .down {
-    margin-top: 15px;
+    margin-top: 12px;
 }
 
 .up {
