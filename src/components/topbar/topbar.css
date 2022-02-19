@@ -9,6 +9,7 @@
 
 .topbarWrapper {
   height: 100%;
+  width: 100%;
   padding: 0px 20px;
   display: flex;
   align-items: center;
@@ -69,4 +70,15 @@
 
 .arrowdown {
   margin-top: 8px;
+}
+
+@media screen and (max-width:480px) {
+  .topRight {
+   margin-left: 600px;
+   
+  }
+
+  .topLeft {
+    display: none;
+  }
 }

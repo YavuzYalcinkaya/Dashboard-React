@@ -1,5 +1,5 @@
 .table {
-    background-color: orangered;
+    background-color: white;
     width: 100%;
     height: 80%;
     display: flex;
@@ -7,10 +7,10 @@
 }
 
 .tableInput {
-    width: 350px;
+    width: 355px;
     height: 200px;
-    background-color: blue;
-    border: 2px solid black;
+    background-color: #fff;
+    border: 2px solid gray;
     margin-top: 10px;
     margin-left: 10px;
     overflow: hidden;
@@ -18,13 +18,11 @@
 }
 
 .header {
-    width: 390px;
+    width: 385px;
     height: 22px;
     margin-top: 10px;
-}
-
-input {
     text-align: center;
+    font-weight: 700;
 }
 
 .ınputJan {
@@ -34,11 +32,219 @@ input {
 }
 
 .dayJan {
-    width: 70px;
+    width: 75px;
     height: 15px;
     display: flex;
     flex-direction: row;
     margin-left: 5px;
+    background-color: #4aaff3;  
+}
+
+.dayJanTwo {
+    background-color: pink;
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+}
+
+.dayFeb {
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    background-color: #4aaff3;
+}
+
+.dayFebTwo {
+    background-color: pink;
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+}
+
+.dayMar {
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    background-color: gray;
+}
+
+.dayMarTwo {
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    background-color: rgb(221, 220, 220);
+}
+
+.dayApr {
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    background-color: gray;
+}
+
+.dayAprTwo {
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    background-color: gray;
+}
+
+.dayMay {
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    background-color: gray;
+}
+
+.dayMayTwo {
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    background-color: gray;
+}
+
+.dayJun {
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    background-color: gray;
+}
+
+.dayJunTwo {
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    background-color: gray;
+}
+
+.dayJul {
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    background-color: #4aaff3;
+}
+
+.dayJulTwo {
+    background-color: pink;
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+}
+
+.dayAug {
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    background-color: #4aaff3;
+}
+
+.dayAugTwo {
+    background-color: pink;
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+}
+
+.daySep {
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    background-color: #4aaff3;
+}
+
+.daySepTwo {
+    background-color: pink;
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+}
+
+.dayOct {
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    background-color: #4aaff3;
+}
+
+.dayOctTwo {
+    background-color: pink;
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+}
+
+.dayNov {
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    background-color: #4aaff3;
+}
+
+.dayNovTwo {
+    background-color: pink;
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+}
+
+.dayDec {
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    background-color: gray;
+}
+
+.dayDecTwo {
+    width: 75px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    background-color: gray;
 }
 
 .inputsCol {
@@ -48,5 +254,6 @@ input {
 .inputsColTwo {
     margin-top: 3px;
 }
+
 
 

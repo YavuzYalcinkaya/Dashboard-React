@@ -42,3 +42,28 @@
   margin-right: 5px;
   font-size: 20px !important;
 }
+
+@media screen and (max-width:468px) {
+  .sidebar {
+    height: 1200px;
+  }
+
+  .sidebarTitle {
+    font-size: 35px;
+  }
+
+  .sidebarListItem {
+    font-size: 30px;
+    color: #fff;
+  }
+
+  .sidebarMenu {
+    margin-top: 50px;
+  }
+
+  .sidebarListItem.active,
+  .sidebarListItem:hover {
+    background-color: rgb(23, 23, 37);
+    color: #fff;
+}
+}
